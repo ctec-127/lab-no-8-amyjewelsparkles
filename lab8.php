@@ -96,7 +96,7 @@
 		</div><!-- end wrapper div-->
 	</div> <!--container -->
 
-	<div class="container my-4 pt-2">
+	<div class="container mt-4 px-0">
 		<div class="row">
 			<div class="col-6">
 				<div class="card">
